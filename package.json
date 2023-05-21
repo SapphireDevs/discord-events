@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SapphireDevs/discord.git"
+    "url": "git+https://github.com/SapphireDevs/discord-bot.git"
   },
   "keywords": [
     "discord",
@@ -22,9 +22,9 @@
   "author": "Ducko#7068",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/SapphireDevs/discord/issues"
+    "url": "https://github.com/SapphireDevs/discord-bot/issues"
   },
-  "homepage": "https://github.com/SapphireDevs/discord#readme",
+  "homepage": "https://github.com/SapphireDevs/discord-bot#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
   },
