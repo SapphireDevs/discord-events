@@ -1,11 +1,5 @@
 <h1 align="left">Hi 👋, Here is another project by Sapphire Devs!</h1>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ### Discord.js Bot
 
 - A lot of new TypeScript users may not know how to make a handler and stuff in typescript so here you go!
